@@ -1,5 +1,3 @@
-# user-directory
-
 # User Directory Dashboard (Angular 19)
 
 This project is a user directory dashboard built with Angular 19 using **standalone components**, **Angular Router**, and **HttpClient** for API integration. It consumes data from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users) and demonstrates routing, component-based architecture, and clean UI using Bootstrap icons.
